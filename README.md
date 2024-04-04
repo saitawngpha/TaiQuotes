@@ -18,7 +18,7 @@
 :-------------------------: | :-------------------------:
 <img src="src/1.png" width="300px"> | <img src="src/2.png" width="300px">
 <img src="src/3.png" width="300px"> | <img src="src/4.png" width="300px">
-<img src="src/5.png" width="300px"> | <img src="src/6.png" width="300px">
+<img src="src/5.png" width="300px"> | <img src="" width="300px">
 
 ### Donate Me
 | SHIBU | BTC | ETH | DOGE |
