@@ -9,7 +9,7 @@
 - Dragger Injection
 
 ## Available on Play Store
-[<img src="[path/to/image.png">](](https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png)[https://link-to-your-URL/](https://play.google.com/store/apps/details?id=com.pld3v.taiquotes))
+[<img src="src/play_icon.png" width="150px">](https://play.google.com/store/apps/details?id=com.pld3v.taiquotes)
 
 ## Demo
    Android Screen | Android Screen
